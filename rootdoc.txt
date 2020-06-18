@@ -1,0 +1,6 @@
+An awesome public FP library.
+
+Links:
+
+ - [[https://bpg.github.io/my-awesome-library/ Homepage]]
+ - [[https://github.com/bpg/my-awesome-library GitHub repository]]
